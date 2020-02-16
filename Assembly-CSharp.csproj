@@ -11,7 +11,7 @@
     <ProductVersion>10.0.20506</ProductVersion>
     <SchemaVersion>2.0</SchemaVersion>
     <RootNamespace></RootNamespace>
-    <ProjectGuid>{3F790352-ED76-BE6E-15E5-00ED94C89FC2}</ProjectGuid>
+    <ProjectGuid>{E7B59119-8B40-DC71-A064-6DB9789B8C6B}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <AssemblyName>Assembly-CSharp</AssemblyName>
@@ -67,37 +67,37 @@
     <Compile Include="Assets\Script\Movement.cs" />
     <Compile Include="Assets\Script\Reco_voc.cs" />
     <Reference Include="Unity.Timeline.Editor">
-      <HintPath>D:/Ludus/4. Bachelor/5. Défi/2. Serius Game/Proto_voice_reco/Library/ScriptAssemblies/Unity.Timeline.Editor.dll</HintPath>
+      <HintPath>D:/Ludus/4. Bachelor/5. Défi/2. Serius Game/Defi-2_Phonefight_AD/Library/ScriptAssemblies/Unity.Timeline.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.VSCode.Editor">
-      <HintPath>D:/Ludus/4. Bachelor/5. Défi/2. Serius Game/Proto_voice_reco/Library/ScriptAssemblies/Unity.VSCode.Editor.dll</HintPath>
+      <HintPath>D:/Ludus/4. Bachelor/5. Défi/2. Serius Game/Defi-2_Phonefight_AD/Library/ScriptAssemblies/Unity.VSCode.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.TextMeshPro.Editor">
-      <HintPath>D:/Ludus/4. Bachelor/5. Défi/2. Serius Game/Proto_voice_reco/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll</HintPath>
+      <HintPath>D:/Ludus/4. Bachelor/5. Défi/2. Serius Game/Defi-2_Phonefight_AD/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll</HintPath>
     </Reference>
     <Reference Include="UnityEngine.UI">
-      <HintPath>D:/Ludus/4. Bachelor/5. Défi/2. Serius Game/Proto_voice_reco/Library/ScriptAssemblies/UnityEngine.UI.dll</HintPath>
+      <HintPath>D:/Ludus/4. Bachelor/5. Défi/2. Serius Game/Defi-2_Phonefight_AD/Library/ScriptAssemblies/UnityEngine.UI.dll</HintPath>
     </Reference>
     <Reference Include="Unity.Timeline">
-      <HintPath>D:/Ludus/4. Bachelor/5. Défi/2. Serius Game/Proto_voice_reco/Library/ScriptAssemblies/Unity.Timeline.dll</HintPath>
+      <HintPath>D:/Ludus/4. Bachelor/5. Défi/2. Serius Game/Defi-2_Phonefight_AD/Library/ScriptAssemblies/Unity.Timeline.dll</HintPath>
     </Reference>
     <Reference Include="Unity.CollabProxy.Editor">
-      <HintPath>D:/Ludus/4. Bachelor/5. Défi/2. Serius Game/Proto_voice_reco/Library/ScriptAssemblies/Unity.CollabProxy.Editor.dll</HintPath>
+      <HintPath>D:/Ludus/4. Bachelor/5. Défi/2. Serius Game/Defi-2_Phonefight_AD/Library/ScriptAssemblies/Unity.CollabProxy.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.Rider.Editor">
-      <HintPath>D:/Ludus/4. Bachelor/5. Défi/2. Serius Game/Proto_voice_reco/Library/ScriptAssemblies/Unity.Rider.Editor.dll</HintPath>
+      <HintPath>D:/Ludus/4. Bachelor/5. Défi/2. Serius Game/Defi-2_Phonefight_AD/Library/ScriptAssemblies/Unity.Rider.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.2D.Sprite.Editor">
-      <HintPath>D:/Ludus/4. Bachelor/5. Défi/2. Serius Game/Proto_voice_reco/Library/ScriptAssemblies/Unity.2D.Sprite.Editor.dll</HintPath>
+      <HintPath>D:/Ludus/4. Bachelor/5. Défi/2. Serius Game/Defi-2_Phonefight_AD/Library/ScriptAssemblies/Unity.2D.Sprite.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.2D.Tilemap.Editor">
-      <HintPath>D:/Ludus/4. Bachelor/5. Défi/2. Serius Game/Proto_voice_reco/Library/ScriptAssemblies/Unity.2D.Tilemap.Editor.dll</HintPath>
+      <HintPath>D:/Ludus/4. Bachelor/5. Défi/2. Serius Game/Defi-2_Phonefight_AD/Library/ScriptAssemblies/Unity.2D.Tilemap.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.TextMeshPro">
-      <HintPath>D:/Ludus/4. Bachelor/5. Défi/2. Serius Game/Proto_voice_reco/Library/ScriptAssemblies/Unity.TextMeshPro.dll</HintPath>
+      <HintPath>D:/Ludus/4. Bachelor/5. Défi/2. Serius Game/Defi-2_Phonefight_AD/Library/ScriptAssemblies/Unity.TextMeshPro.dll</HintPath>
     </Reference>
     <Reference Include="UnityEditor.UI">
-      <HintPath>D:/Ludus/4. Bachelor/5. Défi/2. Serius Game/Proto_voice_reco/Library/ScriptAssemblies/UnityEditor.UI.dll</HintPath>
+      <HintPath>D:/Ludus/4. Bachelor/5. Défi/2. Serius Game/Defi-2_Phonefight_AD/Library/ScriptAssemblies/UnityEditor.UI.dll</HintPath>
     </Reference>
     <Reference Include="UnityEngine.AIModule">
       <HintPath>D:/unity/2019.3.0f1/Editor/Data/Managed/UnityEngine/UnityEngine.AIModule.dll</HintPath>

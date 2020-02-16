@@ -21,12 +21,11 @@ public class Level_valide : MonoBehaviour
         Validation = PlayerPrefs.GetInt(this.name, 0);
         if (index < this.transform.parent.transform.childCount-2)
         {
-            int Valid_lvl_prec = PlayerPrefs.GetInt(this.transform.parent.transform.GetChild(index + 1).name, 0);            
+            int Valid_lvl_prec = PlayerPrefs.GetInt(this.transform.parent.transform.GetChild(index).name, 0);            
             if (Valid_lvl_prec == 0)
             {
                 this.gameObject.GetComponent<Button>().interactable = false;
             }
-
         }
 
         if (Validation == 1)
